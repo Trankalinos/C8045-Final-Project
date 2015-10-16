@@ -1,0 +1,63 @@
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ 
++ 	Manifest and Code Listing
++ 	Author: David Tran
++ 	Course: COMP8045 9-Credit Half-Practicum
++ 	Project: NFC & Smartphone Security
++ 
++	Located on-disk are the following files:
++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[ROOT DIRECTORY]
++ Arduino Code (Directory)
+	- Arduino Libraries (Directory)
+		+ *Adafruit-PN532 (Directory)
+		+ *PN532 (Directory)
+		+ *PN532_HSU (Directory)
+		+ *PN532_I2C (Directory)
+		+ *PN532_SPI (Directory)
+		+ *NDEF (Directory)
+	- android_hce_v2.ino (can be opened with Notepad++, etc.)
+
++ CardEmulation (Directory) <-- Import into Android Studio if possible…
+	- Application (Directory)
+		+ src (Directory)
+			- main (Directory)
+				+ java (Directory)
+					- com.example.android.cardemulation (Directory)
+						+ Account.java
+						+ AccountsDataSource.java
+						+ AccountStorage.java
+						+ CardEmulationFragment.java
+						+ CardService.java
+						+ KeyManagement.java
+						+ MainActivity.java
+						+ MySQLiteHelper.java
+						+ SecurityConstants.java					
++ Python-Server (Directory)
+	- Miscellaneous (Directory)
+		+ aes_example.py
+		+ aes_test.py
+		+ nfc_accounts.sql
+		+ pyserial_example.py
+		+ serial_reader.py
+		+ simple_serial.py
+		+ test.py
+	- AesCrypt.py
+	- AesCrypt.pyc
+	- C8045Util.py
+	- C8045Util.pyc
+	- NFC_Server.py
+	- note-4-public-key.txt
+	- note-4-private-key.txt
+	- server-public-key.pem
+	- server-private-key.pem
+
++ David Tran - COMP 8045 Final Report.pdf
++ David Tran - COMP 8045 Project Proposal.pdf
++ CardEmulation.apk
+
+*Note: Libraries for Arduino shall be listed as whole directories with their content 
+inside them. The Manifest shall not list all the individual files located within. 
+Refer to the actual files themselves for further details.

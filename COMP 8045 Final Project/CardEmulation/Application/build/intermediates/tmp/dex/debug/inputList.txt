@@ -1,0 +1,7 @@
+D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\classes\debug
+D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-11c935d0169114fbf21f6b8f7055263f6484f5d6.jar
+D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-d3815ea0bcb65e04e8c81193cac84cf0470f3ae4.jar
+D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\classes-f68c9479df14eecc550198f7f466b05ce1f17af6.jar
+D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\classes-726655d0379f7ba8a08f154feee3b3cda59f9d91.jar
+D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-820cf233eeda75099794fc8c07ecd8b6064eb84a.jar
+D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\classes-b42a5e88a7ac836598c909a9cdb760131cdd4838.jar

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\classes-b42a5e88a7ac836598c909a9cdb760131cdd4838.jar" />
+    </item>
+    <item
+        jar="D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\classes-f68c9479df14eecc550198f7f466b05ce1f17af6.jar" />
+    </item>
+    <item
+        jar="D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-820cf233eeda75099794fc8c07ecd8b6064eb84a.jar" />
+    </item>
+    <item
+        jar="D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-11c935d0169114fbf21f6b8f7055263f6484f5d6.jar" />
+    </item>
+    <item
+        jar="D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\classes-726655d0379f7ba8a08f154feee3b3cda59f9d91.jar" />
+    </item>
+    <item
+        jar="C:\Users\DTran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\Development\AndroidStudioProjects\CardEmulation\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-d3815ea0bcb65e04e8c81193cac84cf0470f3ae4.jar" />
+    </item>
+
+</items>
